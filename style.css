@@ -55,6 +55,10 @@ margin-left: 3px;
     justify-content: space-evenly;
     
 }
+.nav-search:hover{
+    border: 2px solid orange;
+    border-radius: 4px;
+}
 
 .search-slect{
     background-color: #f3f3f3;
