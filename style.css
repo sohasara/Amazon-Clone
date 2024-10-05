@@ -47,7 +47,7 @@ margin-left: 3px;
 /* box 3 */
 .nav-search{
     display: flex;
-    background-color: orange;
+   
     width: 620px;
     height: 40px;
     border-radius: 4px;
@@ -75,4 +75,5 @@ margin-left: 3px;
     justify-content: center;
     align-items: center;
     font-size: 1.5rem;
+    background-color: orange;
 }
