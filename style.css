@@ -9,6 +9,7 @@
     background-color: #0F1111;
     color: white;
     display: flex;
+    align-items: center;
 }
 .nav-logo{
     height: 50px;
@@ -25,4 +26,21 @@
 }
 .border:hover{
     border: 2px solid white;
+}
+/** box 2 **/
+
+.add-first{
+color: white;
+font-size: 0.85rem;
+margin-left: 15px;
+
+}
+
+.add-sec{
+font: 1em sans-serif;
+margin-left: 3px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
 }
