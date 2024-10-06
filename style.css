@@ -121,7 +121,14 @@ span{
 }
 .pannel-ops p{
     display: inline;
+    margin-left: 15px;
 }
 .pannel-ops{
     width: 70%;
+    font-size: 0.85rem;
+    
+}
+.pannel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
 }
