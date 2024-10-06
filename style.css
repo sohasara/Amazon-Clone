@@ -132,3 +132,11 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+
+/* hero seaction */
+
+.hero{
+   background-image: url("hero_image.jpg");
+   height: 600px;
+   background-size: cover;
+}
