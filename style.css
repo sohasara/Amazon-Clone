@@ -140,3 +140,18 @@ span{
    height: 600px;
    background-size: cover;
 }
+
+.hero-massage{
+    background-color: white;
+    height: 40px;
+    display: flex;
+    /*  vertical */
+    align-items: center;
+    /* horizontal */
+    justify-content: center;
+
+}
+
+.hero-massage a{
+    color: blue;
+}
