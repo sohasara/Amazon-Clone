@@ -137,7 +137,7 @@ span{
 
 .hero{
    background-image: url("hero_image.jpg");
-   height: 600px;
+   height: 400px;
    background-size: cover;
 }
 
@@ -154,4 +154,18 @@ span{
 
 .hero-massage a{
     color: blue;
+}
+
+/* shop-section */
+.box{
+    height: 400px;
+    border: 2px solid black;
+    width: 23%;
+    background-color: white;
+}
+
+.shop-section{
+ display: flex;
+ justify-content: space-evenly;
+ background-color: #e2e7e6;
 }
